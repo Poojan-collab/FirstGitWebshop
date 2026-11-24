@@ -1,5 +1,5 @@
 //import { test, expect } from '@playwright/test';
-import { test, expect } from '../fixtures/fixture';
+import { test, expect } from '../Fixtures/fixture';
 test('Verify Login Functionality', async ({ loginPage }) => {
 
   
