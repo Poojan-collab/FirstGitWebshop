@@ -24,4 +24,5 @@ await registrationPage.nagivateToRegistrationPage();
 await registrationPage.enterRegistrationcredentials("Pujan","Bhatt",email,"Sdet@2027","Sdet@2027");
 await registrationPage.verifyLogoutButtonvisible();
 
+// mew test added 
 });
